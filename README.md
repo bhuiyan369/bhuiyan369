@@ -1,5 +1,5 @@
 ### Hi there 👋, Md. Rajib Bhuiyan
-#### Software Developer | Generative AI 
+#### Python Developer | Generative AI 
 ![banner_image](https://github.com/user-attachments/assets/d5484970-77e5-4c91-9e56-54309a13ffa0)
 
 

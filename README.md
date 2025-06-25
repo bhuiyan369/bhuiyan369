@@ -3,7 +3,8 @@
 ![Software Developer | Generative AI ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 👨‍💻 Python Developer | 💡 Generative AI Enthusiast | 🎓 IT Graduate |
-Passionate about building intelligent solutions with Python and exploring the power of generative AI. Always learning, coding, and creating.
+Passionate about building intelligent solutions with Python and exploring the power of generative AI. Always learning, coding, and creating.![banner_image](https://github.com/user-attachments/assets/d5484970-77e5-4c91-9e56-54309a13ffa0)
+
 
 Skills: Python/ Generative AI
 
